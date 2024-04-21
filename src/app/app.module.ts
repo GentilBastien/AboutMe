@@ -1,10 +1,11 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { AppRoutingModule } from './app-routing.module';
-import { ProjectsComponent } from './projects/projects.component';
+import { HomeComponent } from './home/home.component';
+import { LayoutComponent } from './layout/layout.component';
+import { RouterOutlet } from '@angular/router';
+import { BrowserModule } from '@angular/platform-browser';
 
 @NgModule({
-  declarations: [ProjectsComponent],
-  imports: [CommonModule, AppRoutingModule],
+  declarations: [HomeComponent, LayoutComponent],
+  imports: [RouterOutlet, BrowserModule],
 })
 export class AppModule {}
