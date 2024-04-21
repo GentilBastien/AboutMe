@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="data.xsd"?>
+<cv>
+    <intro>Actuellement en stage à Schneider Electric, mes centres d'intérêts sont le développement d'application, la gestion de projet informatique et plus particulièrement les applications Web. À la suite de formations pluri-disciplinaires, je me suis essentiellement centré sur le développement full-stack et l'UX design.</intro>
+    <experiences>
+        <experience>
+            <title>Développement d'un logiciel de gestion pour une vidéothèque — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Gestion de projet en informatique, livrables et soutenances rendus en Décembre 2022, 1 semestre</detail>
+            <techs>Techno utilisées : .NET (C#), SQL Server localDB, WPF.</techs>
+            <abstract>Développement d'un logiciel à partir d'un cahier des charges fourni par le gérant d'une vidéothèque. Il permet de gérer le stock de films, ses clients, l'historique des locations passées et en cours via une base de données. Techno utilisées : .NET, SQL Server localDB, WPF.</abstract>
+        </experience>
+        <experience>
+            <title>Projets d'Intelligence Artificielle de Plannification Automatique — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Trois mini-projets indépendants, rendus en Décembre 2022, 1 semestre</detail>
+            <techs>Techno utilisées : Java, PDDL, R</techs>
+            <abstract>Résolution d'un jeu de Sokoban à l'aide de la libraire PDDL4J en programmant un code Java qui encode une configuration de Sokoban en un problème PDDL. Implémentation d'un SAT planner en Java pour comparer ses performances avec HSP pour résoudre un problème PDDL. Implémentation d'un arbre de recherche MCTS (MonteCarlo Tree Search) planner pour comparer ses performances avec HSP pour résoudre un même problème PDDL.</abstract>
+        </experience>
+        <experience>
+            <title>Démonstration technique en Vuejs — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Projet de programmation individuel, soutenance et démonstration en Novembre 2022, 1 semestre</detail>
+            <techs>Techno utilisées : Vuejs (+ Vue router + BootstrapVue + Vite), Nodejs. </techs>
+            <abstract>Programmation d'un réseau social fictif dans le framework JavaScript de son choix. Le but est de faire une démonstration de l'application ainsi qu'une présentation pour montrer les points forts du framework et de quelle manière ils ont été intégrés dans l'application.</abstract>
+        </experience>
+        <experience>
+            <title>Conception d'une application Web permettant à des utilisateurs d'évaluer la pertinence des résultats de requête d'un SRI (système de recherche d'information) — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Gestion de projet TER (Travaux Encadrés de Recherche sur une année), soutenances en Janvier et Juillet 2022, 2 semestres</detail>
+            <techs>Techno utilisées : Laravel (PHP et base de données), vue3 (JS), Figma (prototypes).</techs>
+            <abstract>Développement d'une application Web ergonomique qui permet à des utilisateurs experts dans le domaine d'une requête d'attribuer un degré de pertinence aux documents/snippets issus de cette requête. Ces résultats de requête proviennent d'un système de recherche d'information (SRI) existant. Le but de cette application est de récupérer les avis des experts pour évaluer l'efficacité et la précision de ce SRI. Le travail d'attribution d'un score de pertinence étant fastidieux, l'interface de l'application a dû être pensée pour faciliter au maximum le travail de l'expert.</abstract>
+        </experience>
+        <experience>
+            <title>Conception d'activités pédagogiques sur un support numérique — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Gestion de projet, soutenance en Mai 2021, 1 semestre</detail>
+            <techs>Techno utilisées : Java Swing</techs>
+            <abstract>Développement d'une application graphique basée sur la librairie Swing de Java pour servir de support d'accès à des activités pédagogiques numériques. La structure de l'application a dû être pensée pour faciliter l'implémentation et l'ajout de futures activités. Trois activités d'initiation pour les étudiants entrant en L1 MIASHS ont été faites pour son lancement.</abstract>
+        </experience>
+        <experience>
+            <title>Programmation de différentes techniques de résolution d'un jeu de Taquin — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Projet de programmation collaboratif, démo en Décembre 2021, 1 semestre</detail>
+            <techs>Techno utilisées : Java Swing</techs>
+            <abstract>Développement d'une application graphique qui permet de jouer au jeu du Taquin. Le jeu est résolu par une Intelligence Artificielle (IA) que nous avons codé pour ce projet. Le but était de résoudre le jeu en testant des heuristiques et des algorithmes de parcours différents. Le nombre de coups que prend l'IA à résoudre le jeu (avec une heuristique et un algorithme de parcours fixés) a été mesuré.</abstract>
+        </experience>
+        <experience>
+            <title>Conception d'une application graphique simulant le comportement physique d'un robot LEGO motorisé — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Gestion de projet (facultatif), soutenance en Janvier 2021, 1 semestre</detail>
+            <techs>Techno utilisées : Java Swing</techs>
+            <abstract>Développement d'une application graphique en JAVA simulant le comportement des robots LEGO motorisés pour la compétition annuelle Persycup. Modélisation mathématique de l'accélération des moteurs ainsi que de la variabilité des capteurs (tactile, ultrasonique, couleur) du robot selon une démarche statistique. Conceptualisation géométrique de la gestion des collisions et de l'interaction physique des objets. L'objectif de cette application est de pouvoir simuler une stratégie pour la compétition avec des robots.</abstract>
+        </experience>
+        <experience>
+            <title>Projets collaboratifs en Sciences Cognitives — Université Grenoble Alpes, Saint-Martin d'Hères (France)</title>
+            <detail>Projets collaboratifs, 2019-2021</detail>
+            <techs></techs>
+            <abstract>Rédaction de fiches ressources en collaboration sur la mémoire, l'apprentissage, l'intelligence, et l'ergonomie cognitive.</abstract>
+        </experience>
+        <experience>
+            <title>Schneider Electric, Machine Design Center — Eybens (France)</title>
+            <detail>Stage d'observation, Décembre 2015</detail>
+            <techs></techs>
+            <abstract>Immersion dans un site d'ingénierie et de production industrielle.</abstract>
+        </experience>
+    </experiences>
+    <formations>
+        <formation link="https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-IDIVLQ8C/parcours-informatique-et-cognition-IJLABXO5.html" msgLink="Site du Master">
+            <title>Master 1, 2 (MIASHS IC) Mathématique et Informatique Appliquées aux Sciences Humaines et Sociales parcours Informatique et Cognition, UGA — Saint-Martin d'Hères (France)</title>
+            <detail>Cursus actuel, résultats Septembre 2023</detail>
+            <abstract>Enseignements principaux : génie logiciel, intelligence artificielle, interaction homme-machine, analyse de données, programmation, sciences comportementales…</abstract>
+        </formation>        
+        <formation link="https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/licence-XA/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-IDIVNLE7.html" msgLink="Site de la Licence">
+            <title>Licence 1, 2, et 3 (MIASHS) Mathématique et Informatique Appliquées aux Sciences Humaines et Sociales parcours Sciences Cognitives, UGA — Saint-Martin d'Hères (France)</title>
+            <detail>Mention Bien, Juin 2021</detail>
+            <abstract>Enseignements principaux : algorithmique &amp; programmation, systèmes, réseau, probabilités, statistiques, sciences cognitives...</abstract>
+        </formation>
+        <formation link="https://lycee-pierretermier.org/" msgLink="Site du Lycée">
+            <title>Baccalauréat Scientifique option SVT, Lycée Pierre-Termier — Grenoble (France)</title>
+            <detail>Mention Assez Bien, Juin 2018</detail>
+            <abstract>Options : Sciences et Vie de la Terre, Italien LV2</abstract>
+        </formation>
+    </formations>
+    <skills>
+        <skill>
+            <detail>Front-end</detail>
+            <abstract>Vue, Angular, Cordova, TypeScript, RxJS, HTML, SCSS, conception archi front-end</abstract>
+        </skill>
+        <skill>
+            <detail>Back-end</detail>
+            <abstract>Java, Spring, JEE, JPA, Laravel, Symfony, conception schémas de BD, gestion de BDD</abstract>
+        </skill>
+        <skill>
+            <detail>UX Design</detail>
+            <abstract>Conception de mockups, ergonomie cognitive et méthodologie expérimentale (théoriques)</abstract>
+        </skill>
+        <skill>
+            <detail>Méthodes et outils</detail>
+            <abstract>Travailler en mode Agile (Scrum), génie logiciel, versioning de code (Git), méthodologie UML, rigoureux dans les review et le reporting</abstract>
+        </skill>
+        <skill>
+          <detail>Stats inférentielles et IA</detail>
+          <abstract>Implémenter et interpréter des modèles prédictifs comme k-means, k-NN, clustering hiérarchiques, CNN, ...</abstract>
+        </skill>
+        <skill>
+            <detail>Logiciels couramment utilisés</detail>
+            <abstract>IntellIJ, VSCode, Visual Studio, Eclipse (Programmation), RStudio, Conda (Analyse de données), Figma (Design mockups), Filmora (Montage vidéo), Gimp 2.0 (Édition/retouche d'images)</abstract>
+        </skill>
+        <skill>
+            <detail>Langues parlées</detail>
+            <abstract>français (maternelle) et anglais (C2)</abstract>
+        </skill>
+    </skills>
+</cv>
