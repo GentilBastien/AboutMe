@@ -1,0 +1,1 @@
+:root{--col-primary: #cc435c;--col-secondary: #962ed0;--col-bg: #0f0f11}.tagline{width:fit-content;background:linear-gradient(to right,var(--col-primary) 1%,var(--col-secondary));background-clip:text;-webkit-text-fill-color:transparent}html,body{padding:0;margin:0;background-color:var(--col-bg);font-family:Archivo Narrow,sans-serif}
