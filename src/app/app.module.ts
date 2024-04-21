@@ -1,11 +1,10 @@
 import { NgModule } from '@angular/core';
-import { HomeComponent } from './home/home.component';
-import { LayoutComponent } from './layout/layout.component';
 import { RouterOutlet } from '@angular/router';
 import { BrowserModule } from '@angular/platform-browser';
+import { HomeComponent } from './pages/home/home.component';
 
 @NgModule({
-  declarations: [HomeComponent, LayoutComponent],
+  declarations: [HomeComponent],
   imports: [RouterOutlet, BrowserModule],
 })
 export class AppModule {}
