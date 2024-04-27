@@ -1,0 +1,13 @@
+.rainbow {
+  width: fit-content;
+  background: linear-gradient(to right, var(--col-primary) 1%, var(--col-secondary));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rainbow-infinite {
+  width: fit-content;
+  background: linear-gradient(to right, var(--col-primary) 1%, var(--col-secondary));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

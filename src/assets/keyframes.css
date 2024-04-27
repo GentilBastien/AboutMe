@@ -1,0 +1,20 @@
+@keyframes primaryToSecondaryBackgroundColor {
+  0% {
+    background-color: var(--col-primary);
+  }
+  50% {
+    background-color: var(--col-secondary);
+  }
+  100% {
+    background-color: var(--col-primary);
+  }
+}
+
+@keyframes movingBackground {
+  0%,100% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 100% 0;
+  }
+}

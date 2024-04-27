@@ -1,0 +1,5 @@
+.main-title {
+  @apply text-6xl font-bold;
+  letter-spacing: -0.15rem;
+  line-height: 6rem;
+}

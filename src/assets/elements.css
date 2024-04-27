@@ -1,0 +1,14 @@
+button {
+  @apply text-standard;
+  padding: 0.3rem 0.8rem;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--col-primary);
+  transition: scale 150ms ease-in;
+  scale: 1;
+  filter: drop-shadow(0 0 1px var(--col-primary));
+}
+
+button:hover {
+  filter: drop-shadow(0 0 2px var(--col-secondary));
+  scale: 1.05;
+}

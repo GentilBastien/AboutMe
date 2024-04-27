@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{html,ts}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      textColor: {
+        'standard': 'var(--col-font)'
+      }
+    },
   },
   plugins: [],
 }
