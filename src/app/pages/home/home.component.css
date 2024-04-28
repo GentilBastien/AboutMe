@@ -3,3 +3,9 @@
   letter-spacing: -0.15rem;
   line-height: 6rem;
 }
+
+button {
+  --size: 10rem;
+  width: var(--size);
+  height: var(--size);
+}
